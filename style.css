@@ -258,3 +258,17 @@ ul {
         margin-bottom: 10px;
     }
 }
+@media (max-width: 499px) {
+    .headLine, .headLead, .nub1, .nav1 {
+        display: none;
+    }
+    .main, h2, .colPrew, a, img {
+        display: none;
+    }
+    .small-display {
+        display: block;
+        text-align: center;
+        color: red;
+        font-weight: 600;
+    }
+}
