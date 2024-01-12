@@ -17,6 +17,9 @@
 .lead_txt {
     margin-left: 20px;
 }
+.lead_txt h1{
+    font-size: 21.7pt;
+}
 .lead_txt_data {
     margin-top: 10px;
 }
@@ -199,6 +202,9 @@ video {
         height: auto;
     }
     .lead_txt {
+        font-size: 12pt;
+    }
+    .lead_txt h1 {
         font-size: 12pt;
     }
     .lead_txt_data {
